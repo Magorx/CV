@@ -38,7 +38,7 @@ GPA: 5/5 or 9.6/10
 
 
 ● Programming languages: C, C++, Python  
-● Technologies: Telegram API, GLSL(beginner), SFML (beginner)  
+● Technologies: Telegram API, GLSL(beginner), SFML (beginner), Vulkan (beginner)  
 ● Math: Calculus, Analytic geometry, Mathematical logiс  
 ● Languages: English(B2-C1), Russian (native)  
 
